@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.png" width="96" height="96" alt="SplashScreenAdvanced">
+<img src="https://raw.githubusercontent.com/jichuo1/SplashScreenAdvanced/main/docs/logo.png" width="96" height="96" alt="SplashScreenAdvanced">
 
 # SplashScreenAdvanced
 
@@ -10,7 +10,7 @@
 
 <br>
 
-[![License](https://img.shields.io/github/license/jichuo1/SplashScreenAdvanced?style=flat-square&color=a32d2a)](LICENSE)
+[![License](https://img.shields.io/github/license/jichuo1/SplashScreenAdvanced?style=flat-square&color=a32d2a)](https://github.com/jichuo1/SplashScreenAdvanced/blob/main/LICENSE)
 [![Android](https://img.shields.io/badge/Android-14%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](#要求)
 [![libxposed](https://img.shields.io/badge/libxposed-API%20101%2B-6DB33F?style=flat-square&logo=android&logoColor=white)](https://github.com/libxposed)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.4-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
@@ -138,10 +138,10 @@ cd SplashScreenAdvanced
 | 产物 | 命令 / 入口 |
 |:---|:---|
 | Debug APK | `./gradlew :app:assembleDebug` |
-| Alpha 预发布 | 向 `main` 推送，或手动运行 [alpha-release](.github/workflows/alpha-release.yml) |
-| Stable 发布 | [stable-release](.github/workflows/stable-release.yml) |
+| Alpha 预发布 | 向 `main` 推送，或手动运行 [alpha-release](https://github.com/jichuo1/SplashScreenAdvanced/blob/main/.github/workflows/alpha-release.yml) |
+| Stable 发布 | [stable-release](https://github.com/jichuo1/SplashScreenAdvanced/blob/main/.github/workflows/stable-release.yml) |
 
-发布签名使用 GitHub Environment Secrets，密钥库不要放进仓库。步骤见 [release-signing](.github/release-signing/README.md)。
+发布签名使用 GitHub Environment Secrets，密钥库不要放进仓库。步骤见 [release-signing](https://github.com/jichuo1/SplashScreenAdvanced/blob/main/.github/release-signing/README.md)。
 
 ---
 
@@ -160,7 +160,7 @@ cd SplashScreenAdvanced
 
 ## 出处与许可
 
-本项目基于 [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen)（作者 GSWXXN）修改而来。原作品与本仓库均以 [GNU Affero General Public License v3.0](LICENSE) 授权。
+本项目基于 [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen)（作者 GSWXXN）修改而来。原作品与本仓库均以 [GNU Affero General Public License v3.0](https://github.com/jichuo1/SplashScreenAdvanced/blob/main/LICENSE) 授权。
 
 相对上游的主要变更包括：
 
@@ -192,7 +192,7 @@ cd SplashScreenAdvanced
 
 <br>
 
-**[AGPL-3.0](LICENSE)** · [Issues](https://github.com/jichuo1/SplashScreenAdvanced/issues) · [Releases](https://github.com/jichuo1/SplashScreenAdvanced/releases)
+**[AGPL-3.0](https://github.com/jichuo1/SplashScreenAdvanced/blob/main/LICENSE)** · [Issues](https://github.com/jichuo1/SplashScreenAdvanced/issues) · [Releases](https://github.com/jichuo1/SplashScreenAdvanced/releases)
 
 <sub>感谢原作者 GSWXXN，以及每一位提交 Issue 与参与测试的用户。</sub>
 
