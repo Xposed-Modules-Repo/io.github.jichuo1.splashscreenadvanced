@@ -175,6 +175,7 @@ cd SplashScreenAdvanced
 - Hook 层的异常隔离、反射缓存、内存与线程安全修复
 - 设置界面重组与图标加载优化
 - 发布流水线改为 GitHub Actions + Environment Secrets 签名
+- 新增对图标进行预先超分抗锯齿的相关实用功能
 
 原作者的个人品牌素材、社区链接与捐赠信息已移除，它们指向的是原作者本人而非本项目。
 
